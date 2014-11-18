@@ -24,7 +24,7 @@ Testing
 ---------
  
 * RSPEC
-* Run by: <$ cd rspec >
+* Run by: ```$ cd rspec```
 
 To Do 
 ---------
